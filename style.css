@@ -1,0 +1,27 @@
+h1{
+    text-align: center; 
+    font-size: 400%;
+}
+h3{
+    text-align: center;
+    font-size: 250%;
+    font-family:serif;
+}
+p{
+    text-align: center;
+    font-size: 200%;   
+}
+#gender{
+    text-align: center;
+    font-size: 150%;
+}
+.man{
+    margin: 10px 10px 10px 1px ;
+}
+.woman{
+    margin: 20px 30px 20px 5px;
+}
+.frog{
+    margin:20px 54px 20px 1px ;
+    
+}
