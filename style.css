@@ -11,3 +11,11 @@ h1{
     color: #d87205;
     font-style: italic;
 }
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
