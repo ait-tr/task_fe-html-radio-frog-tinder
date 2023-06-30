@@ -1,8 +1,13 @@
 body{
-    background-color:rgba(127, 255, 212, 0.414);
+    background-color:rgba(127, 255, 212, 0.037);
     margin: 20px 40px;
 }
 label {
     font-size: 20px; 
-    color: #043e01;
-  }
+    color: #097a03;
+    font-style: italic;
+}
+h1{
+    color: #d87205;
+    font-style: italic;
+}
