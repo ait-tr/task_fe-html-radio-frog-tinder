@@ -1,0 +1,15 @@
+.subtitel, .qustion {
+margin: 20px;
+}
+#frogsImg {
+    width: 250px;
+    position: absolute;
+}
+.container {
+    color: white;
+   
+  }
+  .qustion {
+    color: rgb(10, 10, 24);
+    position: relative;
+  }
