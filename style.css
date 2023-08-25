@@ -1,0 +1,22 @@
+body {
+   /* background-image: url(frogs.jpeg);
+    background-repeat: no-repeat; */
+    background-color: aquamarine;
+    font-family: "comic-sans-ms";
+}
+
+* {
+    margin: 5px;
+  }
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+  }
+  @font-face {
+    font-family: "comic-sans-ms";
+    src: url(./fonts/comic-sans-ms.ttf) format(truetype); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 
