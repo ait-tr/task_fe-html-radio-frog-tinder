@@ -1,22 +1,30 @@
 body {
-   /* background-image: url(frogs.jpeg);
-    background-repeat: no-repeat; */
-    background-color: aquamarine;
-    font-family: "comic-sans-ms";
+
+  height: 200vh;
+  background-color: aquamarine;
+  background-image: url(frogs800.png);
+  background-repeat: no-repeat;
+  font-family: "comic-sans-ms";
 }
 
 * {
-    margin: 5px;
-  }
+  margin: 20px 50px;
+}
+h5 {
+  margin-top: 30px;
+  padding-left: 100px;
+}
 
 form {
-    display: flex;
-    flex-direction: column;
-    width: 300px;
-  }
-  @font-face {
-    font-family: "comic-sans-ms";
-    src: url(./fonts/comic-sans-ms.ttf) format(truetype); 
-    font-style: normal; 
-    font-weight: normal; 
-    } 
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  top: 10px;
+}
+
+@font-face {
+  font-family: "comic-sans-ms";
+  src: url(./fonts/comic-sans-ms.ttf) format(truetype);
+  font-style: normal;
+  font-weight: normal;
+}
