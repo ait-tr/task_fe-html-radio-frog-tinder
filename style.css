@@ -5,6 +5,7 @@ body {
   background-image: url(frogs800.png);
   background-repeat: no-repeat;
   font-family: "comic-sans-ms";
+  font-size: 14pt;
 }
 
 * {
@@ -18,13 +19,25 @@ h5 {
 form {
   display: flex;
   flex-direction: column;
-  width: 300px;
-  top: 10px;
+ 
+  
+  font-size: 14pt;
+}
+
+.pic-right {
+  margin-top: 240px;
+  padding-left: 500px;
+}
+.wrong-direction {
+  align-self: start;
+}
+.img-frog-smile {
+ align-items: baseline;
+ margin-left: 135px;
+ margin-top: 0%;
 }
 
 @font-face {
   font-family: "comic-sans-ms";
   src: url(./fonts/comic-sans-ms.ttf) format(truetype);
-  font-style: normal;
-  font-weight: normal;
 }
