@@ -1,0 +1,35 @@
+h1{
+    color: blueviolet;
+    font-size: 60px;
+}
+legend{
+    color: rgb(134, 198, 15);
+    font-size: 40px;
+}
+label{
+    font-size: 30px;
+    margin: 15px;
+}
+div{
+    font-size: 20px;
+}
+form{
+    height: 400px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+body{
+    background-color:antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+button{
+    margin: 20px;
+    text-align: center;
+    background-color: brown;
+    color: cornsilk;
+    font-size: 30px;
+}
