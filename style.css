@@ -5,12 +5,13 @@ body {
   background-image: url(frogs800.png);
   background-repeat: no-repeat;
   font-family: "comic-sans-ms";
-  font-size: 14pt;
+  font-size: 12pt;
 }
 
 * {
   margin: 20px 50px;
 }
+
 h5 {
   margin-top: 30px;
   padding-left: 100px;
@@ -19,22 +20,22 @@ h5 {
 form {
   display: flex;
   flex-direction: column;
- 
-  
   font-size: 14pt;
 }
 
 .pic-right {
-  margin-top: 240px;
+  margin-top: 200px;
   padding-left: 500px;
 }
+
 .wrong-direction {
   align-self: start;
 }
+
 .img-frog-smile {
- align-items: baseline;
- margin-left: 135px;
- margin-top: 0%;
+  align-items: baseline;
+  margin-left: 135px;
+  margin-top: 0%;
 }
 
 @font-face {
