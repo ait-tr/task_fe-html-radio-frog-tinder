@@ -1,0 +1,23 @@
+h1, h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  width: 400px;
+}
+
+.fieldset {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 0;
+  padding-left: 0;
+  border: none;
+}
+
+.input {
+  margin-bottom: 10px;
+}
+
+.label {
+  display: block;
+  font-weight: bold;
+}
